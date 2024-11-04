@@ -1,6 +1,7 @@
 # Medical-Insurance-Cost-Prediction
 
 Overview
+
 This project aims to predict medical insurance costs based on demographic and lifestyle factors, using a dataset with features such as Age, BMI, and smoking status. After encoding categorical variables and scaling numeric features, we trained a Linear Regression model to estimate insurance charges..
 
 # Project Structure
