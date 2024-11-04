@@ -29,7 +29,7 @@ Here is the link to the dataset from kaggle: https://www.kaggle.com/datasets/mir
 # Getting Started
 To run this project locally, follow these steps:
 
-1. Clone the repository: git clone https://github.com/Fayyo/health-insurance-prediction.git
+1. Clone the repository: git clone https://github.com/PriscyC/Medical-Insurance-Cost-Prediction/tree/main
 2. Install dependencies: Ensure Python is installed, then install the required libraries
 3. Run the Jupyter Notebook: Launch the notebook to view and execute the code: jupyter notebook Global_AI_Hub_Project.ipynb
 
